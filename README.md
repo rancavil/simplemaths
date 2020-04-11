@@ -8,13 +8,13 @@ Just enjoy.
 
 ## Instaling simplemaths
 
-  $ pip3 install git+https://github.com/rancavil/simplemaths.git
+    $ pip3 install git+https://github.com/rancavil/simplemaths.git
 
 or
 
- $ git clone https://github.com/rancavil/simplemaths.git
- $ cd simplemaths
- $ sudo python3 setup.py install
+    $ git clone https://github.com/rancavil/simplemaths.git
+    $ cd simplemaths
+    $ sudo python3 setup.py install
 
 **Note:** The module is compatible with Python version 2 and 3.
 
@@ -35,5 +35,3 @@ The module implements the four basic maths operations.
       >>> maths.div(10,2)
       5
       >>>
-
-
