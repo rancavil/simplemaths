@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-#       orderC.c
+#       setup.py
 #       Copyright (C) 2020  Rodrigo Ancavil del Pino
 #       Email   rancavil@yinnovaser.cl
 #
