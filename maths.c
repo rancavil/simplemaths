@@ -95,7 +95,7 @@ struct module_state {
 static struct PyModuleDef moduledef = {
         PyModuleDef_HEAD_INIT,
         "simplemaths",
-        NULL,
+        "simple maths module developed in C",
         sizeof(struct module_state),
         Methods,
         NULL,
